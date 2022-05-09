@@ -1,0 +1,25 @@
+.App {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0deg 0% 0% / 50%);
+}
+
+.content {
+  width: 37rem;
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+  display: inline;
+}
+
+.Label {
+  width: 300px;
+  color: silver;
+  padding: 10px 0 0 0;
+}
